@@ -16,3 +16,7 @@
 // git add .
 // git commit -m "message"
 // git push origin main
+
+// git branch     - will show you what branch you are on
+// git branch newBranchName       - will create a new branch
+// git checkout newBranchName     - will switch to the new branch
